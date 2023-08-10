@@ -22,7 +22,7 @@
   <a href="https://linkedin.com/in/andrey-cunha-116669238" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://Andrey980.github.io" target="_blank">
+  <a href="https://andrey980.github.io/portfolio-website/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
