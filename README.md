@@ -9,7 +9,7 @@
  
   🔭 **Procurando estágio** 
   
-  ⌨️ **Aprendendo Python e ReactJS**
+  ⌨️ **Aprendendo Python e NodeJs**
   
   🌱 **Estudante de Ciência da computação.**
  
